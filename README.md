@@ -1,3 +1,1 @@
-# SMART-INDIA-HACKATHON-2022
-
-Attendance system for students of government aided school
+# Attendance-management-system-for-students-of-government-aided-schools
